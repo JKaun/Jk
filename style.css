@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    background: cadetblue;
+}
+.contenedor {
+    background: cadetblue;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    font-size: xx-large;
+    padding: 15%;
+}
+button {
+    font-size: xx-large;
+    padding: 0.75em;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+}
+#yesBtn {
+    transform: translate(-100%, 0);
+}
+#noBtn {
+    position: absolute;
+}
